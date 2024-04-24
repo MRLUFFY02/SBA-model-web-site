@@ -1,0 +1,51 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background-color: black;
+    
+}
+.header a{
+    color: white;
+    margin-left: 10px;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+.header a :hover
+{
+  color: #04AA6D
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4rem;
+    
+}
+.logo{
+    margin-left: 5rem;
+
+}
+.menu-bar a
+{
+   text-decoration: none;
+   padding: 10px;
+   color: black;
+   font-weight: 700;
+}
+.menu-bar a:hover   
+{
+    color: #b40606;
+}
+.tele
+{
+    margin-top: 60px;
+    font-size: 20px;
+}

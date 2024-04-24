@@ -1,0 +1,31 @@
+Javascript
+----------
+1.Output statements
+2.Variable
+3.Datatypes
+4.Operators
+5.if-else
+6.Typeconversion
+7.Function
+8.Array
+9.Object
+10.loop--for,while,do-while,continue,break
+11.Array methods
+12.Advanced for loop-for-of,for-in,for-each
+
+ES6-advanced JS
+---------------------
+13.Object copy--shallow copy and deeplevel copy
+14.call-apply-bind
+15.spread Operator
+16.Default arguments,Rest Parameter
+17.closure
+18.Hoisting-variable hoisting and Function hoisting
+19.IIFE
+20.callback function-setTimeout(),setintervel()
+21.Map()-Reduce()-filter()
+21.Ajax-fetch-promise
+22.DOM
+------------------------------------------------------------------------
+
+
